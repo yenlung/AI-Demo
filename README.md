@@ -22,16 +22,22 @@
 ### 【模組二】用遷移式學習做八哥辨識
 CNN 原理介紹, 運用名門 CNN  做遷移式學習, 實作台灣常見三哥辨識, 但很容易更換為自己要做的分類 AI。
 
+【投影片】[02. 用遷移式學習做八哥辨識]()
+
 【程式碼】[https://yenlung.me/AI02](https://yenlung.me/AI02)
 
 
 ### 【模組三】和 AI PK 誰比較會認 IVE 成員?
 介紹 representation learning 及 embedding 的概念, 用 contrastive learning 做人臉辨識的原理, 實作 K-Pop 女團 IVE 成員的辨識 (或任何自己想要做的人臉辨識)。 
 
+【投影片】[03. 和 AI PK 誰比較會認 IVE 成員?]()
+
 【程式碼】[https://yenlung.me/AI03](https://yenlung.me/AI03)
 
 
 ### 【模組四】打造自己的 ChatGPT!
 文字生成 AI 的原理, 有「記憶」的神經網路 RNN 及 transformers, 大型語言模型 (LLM, 如 ChatGPT) 為什麼這麼厲害? 用 OpenAI API 打造自己的對話機器人!
+
+【投影片】[04. 打造自己的 ChatGPT!]()
 
 【程式碼】[https://yenlung.me/AI04](https://yenlung.me/AI04)
