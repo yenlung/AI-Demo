@@ -38,6 +38,6 @@ CNN 原理介紹, 運用名門 CNN  做遷移式學習, 實作台灣常見三哥
 ### 【模組四】打造自己的 ChatGPT!
 文字生成 AI 的原理, 有「記憶」的神經網路 RNN 及 transformers, 大型語言模型 (LLM, 如 ChatGPT) 為什麼這麼厲害? 用 OpenAI API 打造自己的對話機器人!
 
-【投影片】[04. 打造自己的 ChatGPT!]()
+【投影片】[04. 打造自己的 ChatGPT!](https://www.slideshare.net/slideshow/ai-04-chatgpt-ai-llm-openai-api/270178683)
 
 【程式碼】[https://yenlung.me/AI04](https://yenlung.me/AI04)
