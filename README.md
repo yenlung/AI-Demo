@@ -22,7 +22,7 @@
 ### 【模組二】用遷移式學習做八哥辨識
 CNN 原理介紹, 運用名門 CNN  做遷移式學習, 實作台灣常見三哥辨識, 但很容易更換為自己要做的分類 AI。
 
-【投影片】[02. 用遷移式學習做八哥辨識]()
+【投影片】[02. 用遷移式學習做八哥辨識](https://www.slideshare.net/slideshow/ai-02-cnn-cnn/270178439)
 
 【程式碼】[https://yenlung.me/AI02](https://yenlung.me/AI02)
 
