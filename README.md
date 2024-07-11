@@ -15,6 +15,7 @@
 人工智慧概念的介紹, 全連結神網路, 最後打造一個用 MNIST 數據集的手寫辨識 AI。
 
 【投影片】[01. 用全連結神經網路打造手寫辨識 AI](https://www.slideshare.net/slideshow/ai-01-ai-ai-mnist/270178226)
+
 【程式碼】[https://yenlung.me/AI01](https://yenlung.me/AI01)
 
 
