@@ -30,7 +30,7 @@ CNN 原理介紹, 運用名門 CNN  做遷移式學習, 實作台灣常見三哥
 ### 【模組三】和 AI PK 誰比較會認 IVE 成員?
 介紹 representation learning 及 embedding 的概念, 用 contrastive learning 做人臉辨識的原理, 實作 K-Pop 女團 IVE 成員的辨識 (或任何自己想要做的人臉辨識)。 
 
-【投影片】[03. 和 AI PK 誰比較會認 IVE 成員?]()
+【投影片】[03. 和 AI PK 誰比較會認 IVE 成員?](https://www.slideshare.net/slideshow/ai-03-ai-pk-ive-contrastive-learning/270178565)
 
 【程式碼】[https://yenlung.me/AI03](https://yenlung.me/AI03)
 
