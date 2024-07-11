@@ -14,6 +14,8 @@
 ### 【模組一】用全連結神經網路打造手寫辨識 AI
 人工智慧概念的介紹, 全連結神網路, 最後打造一個用 MNIST 數據集的手寫辨識 AI。
 
+<iframe src="https://www.slideshare.net/slideshow/embed_code/key/C6IQGiKhTd6n6t?hostedIn=slideshare&page=upload" width="476" height="400" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>
+
 【程式碼】[https://yenlung.me/AI01](https://yenlung.me/AI01)
 
 
